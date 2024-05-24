@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Mohammed and welcome to my GitHub!
+
+This GitHub account is being used to create notes on the processes I have implemented during my time as a DevOps Engineer. <br> <br>
+
 
 <!--
 **Motala11/Motala11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
