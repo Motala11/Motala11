@@ -4,7 +4,7 @@ This GitHub account is being used to create notes on the processes I have implem
 
 Here, you will find projects ranging from fun Pokemon API games, to building your own Jenkins pipeline!
 
-The projects will have step-by-step guides to allow you to follow along and try it out yourself:tada:. 
+The projects will have step-by-step guides to allow you to follow along and try it out yourself :tada:. 
 
 Please check out the projects I have created on my journey as a DevOps Engineer! :grin:
 
