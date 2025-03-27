@@ -48,19 +48,19 @@ nav a {
 }
 
 .Intro {
-  display: flex; /* Arrange items side by side */
-  align-items: center; /* Vertically center the items */
-  justify-content: space-evenly; /* Optional: Add space between items */
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .Intro img {
-  width: 30%; /* Adjust the image width to control its size */
+  width: 30%;
   height: 300px;
   margin-top: 20px;
 }
 
 .Intro h1 {
-  max-width: 50%; /* Ensure text doesn't overflow */
+  max-width: 50%;
 }
 
 .about {
@@ -176,7 +176,7 @@ footer ul li:not(:first-child) {
 }
 @media (max-width: 768px) and (max-width: 768px) {
   .Intro img {
-    display: none; /* Hides the image on mobile */
+    display: none;
   }
 }
 
