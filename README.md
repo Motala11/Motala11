@@ -1,14 +1,15 @@
 ## Hi there 👋 My name is Mohammed and welcome to my GitHub!
 
-This GitHub account is being used to create notes on the processes I have implemented during my time as a DevOps Engineer. <br> <br>
+This GitHub account is being used to create notes on the processes I have implemented during my time as a Software Engineer. <br> <br>
 
 Here, you will find projects ranging from fun Pokemon API games, to building your own Jenkins pipeline!
 
-The projects will have step-by-step guides to allow you to follow along and try it out yourself :tada:. 
+The projects will have step-by-step guides to allow you to follow along and try it out yourself :tada:.
 
-Please check out the projects I have created on my journey as a DevOps Engineer! :grin:
+Please check out the projects I have created on my journey as a Software Developer! :grin:
 
 ### List of Projects:
+
 - A fun [Pokemon API game](https://github.com/Motala11/Tech258_Python/blob/main/apis/CLI_Pokemon_game.py) created in Python!
 - How to [setup an AWS server](https://github.com/Motala11/cloud_learning/blob/main/readme.md)
 - [Creating a CI/CD pipeline using Jenkins](https://github.com/Motala11/CICD/blob/main/CI-CD_pipeline.md#job-3-cd-of-deploying-main-branch-to-production)
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
